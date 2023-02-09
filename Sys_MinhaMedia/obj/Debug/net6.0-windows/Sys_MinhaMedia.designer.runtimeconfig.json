@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Welto\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Welto\\.nuget\\packages",
+      "C:\\Users\\welton.osilva2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\welton.osilva2\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

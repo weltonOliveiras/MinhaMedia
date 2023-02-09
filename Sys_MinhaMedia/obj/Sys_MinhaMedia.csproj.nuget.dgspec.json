@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Welto\\OneDrive\\Área de Trabalho\\projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj": {}
+    "C:\\Users\\welton.osilva2\\OneDrive - SENAC - SP\\Documentos\\Projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Welto\\OneDrive\\Área de Trabalho\\projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj": {
+    "C:\\Users\\welton.osilva2\\OneDrive - SENAC - SP\\Documentos\\Projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Welto\\OneDrive\\Área de Trabalho\\projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj",
+        "projectUniqueName": "C:\\Users\\welton.osilva2\\OneDrive - SENAC - SP\\Documentos\\Projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj",
         "projectName": "Sys_MinhaMedia",
-        "projectPath": "C:\\Users\\Welto\\OneDrive\\Área de Trabalho\\projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj",
-        "packagesPath": "C:\\Users\\Welto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Welto\\OneDrive\\Área de Trabalho\\projeto_MinhaMedia\\Sys_MinhaMedia\\obj\\",
+        "projectPath": "C:\\Users\\welton.osilva2\\OneDrive - SENAC - SP\\Documentos\\Projeto_MinhaMedia\\Sys_MinhaMedia\\Sys_MinhaMedia.csproj",
+        "packagesPath": "C:\\Users\\welton.osilva2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\welton.osilva2\\OneDrive - SENAC - SP\\Documentos\\Projeto_MinhaMedia\\Sys_MinhaMedia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Welto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welton.osilva2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
