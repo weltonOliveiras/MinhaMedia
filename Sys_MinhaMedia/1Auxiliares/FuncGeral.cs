@@ -17,7 +17,7 @@ using System.Security.Cryptography;
 using System.IO;
 
 
-namespace SysSchool
+namespace Sys_MinhaMedia
 {
     class FuncGeral
     {
@@ -42,7 +42,7 @@ namespace SysSchool
         * RETORNO:         String 
         * DT CRIAÇÃO:      09/02/2023    
         * DT ALTERAÇÃO:    -
-        * ESCRITA POR:     Monstro (mFacine) 
+        * ESCRITA POR:     WeltonOliveira
         ***********************************************************************/
         public string Criptografa(string sPassWord)
         {
